@@ -62,12 +62,5 @@ void main(){
           print("Gence Prospekti 81 unvanina yaxinlasib mehsulunuzu elde ede bilersiniz!");
         }
       }
-  }
-
-
-
-
-
-  
+  } 
 }
-
